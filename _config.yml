@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Justin Perez"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "assets/images/Projects/Websites/Portfolio/Bio/BioPhoto.jpg"
   bio    : "This is my totally unique Bio I created!"
   links:
     - label: "Itch"
