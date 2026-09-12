@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Justin Perez"
   avatar : "assets/images/Projects/Websites/Portfolio/Bio/BioPhoto.jpg"
-  bio    : "This is my totally unique Bio I created!"
+  bio    : "Hey! I'm Justin Perez, pursuing a dual degree in Computer Science with a concentration in Software Engineering & Game Programming and Development. I’m always eager to learn and connect with others who share my passion for coding. Feel free to reach out!"
   links:
     - label: "Itch"
       icon: "fas fa-fw fa-link"
