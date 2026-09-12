@@ -4,6 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Code Review
   - UE5
+  - Games
 tags:
   - Post Formats
   - readability
@@ -11,6 +12,7 @@ tags:
   - standard
   - SNHU
   - UE5
+  - Games
 ---
 
 Hey Everyone!
