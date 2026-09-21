@@ -16,8 +16,8 @@ tags:
   - Steam
 ---
 
-![Lucky Brain Noodle Multiplayer](assets/images/Games/LuckyBrainNoodle/LBN%20Co-op1.png)
-![Lucky Brain Noodle Multiplayer](assets/images/Games/LuckyBrainNoodle/LBN%20Co-op2.png)
+![Lucky Brain Noodle Multiplayer](/assets/images/Games/LuckyBrainNoodle/LBN%20Co-op1.png)
+![Lucky Brain Noodle Multiplayer](/assets/images/Games/LuckyBrainNoodle/LBN%20Co-op2.png)
 
 Hey Everyone!
 
