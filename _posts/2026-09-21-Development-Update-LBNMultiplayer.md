@@ -1,6 +1,10 @@
 ---
 title: "Development Update: Lucky Brain Noodle Multiplayer Update"
 excerpt_separator: "<!--more-->"
+tagline: "This is a custom tagline content which overrides the default page excerpt."
+header:
+  overlay_image: /assets/images/Games/LuckyBrainNoodle/LuckyBrainNoodles.jpg
+  caption: "Lucky Brain Noodle Concept Art"
 categories:
   - UE5
   - Development Update
@@ -17,16 +21,6 @@ tags:
 ---
 
 
-![Lucky Brain Noodle Multiplayer]({{ '/assets/images/Games/LuckyBrainNoodle/LBNCo-op1.png' | relative_url }})
-
-![Lucky Brain Noodle Multiplayer]({{ '/assets/images/Games/LuckyBrainNoodle/LBNCo-op2.png' | relative_url }})
-
-![Lucky Brain Noodle Multiplayer](/assets/images/Games/LuckyBrainNoodle/LBNCo-op1.png)
-![Lucky Brain Noodle Multiplayer](/assets/images/Games/LuckyBrainNoodle/LBNCo-op2.png)
-/assets/images/Games/LuckyBrainNoodle/LBN1.jpg
-assets/images/Games/LuckyBrainNoodle/LBN1.jpg
-
-/assets/images/Games/LuckyBrainNoodle/LuckyBrainNoodles.jpg
 
 
 Hey Everyone!
