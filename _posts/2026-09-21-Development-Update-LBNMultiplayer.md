@@ -16,6 +16,11 @@ tags:
   - Steam
 ---
 
+
+![Lucky Brain Noodle Multiplayer]({{ '/assets/images/Games/LuckyBrainNoodle/LBNCo-op1.png' | relative_url }})
+
+![Lucky Brain Noodle Multiplayer]({{ '/assets/images/Games/LuckyBrainNoodle/LBNCo-op2.png' | relative_url }})
+
 ![Lucky Brain Noodle Multiplayer](/assets/images/Games/LuckyBrainNoodle/LBNCo-op1.png)
 ![Lucky Brain Noodle Multiplayer](/assets/images/Games/LuckyBrainNoodle/LBNCo-op2.png)
 /assets/images/Games/LuckyBrainNoodle/LBN1.jpg
