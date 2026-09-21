@@ -1,7 +1,7 @@
 ---
 title: "Development Update: Lucky Brain Noodle Multiplayer Update"
 excerpt_separator: "<!--more-->"
-tagline: "This is a custom tagline content which overrides the default page excerpt."
+tagline: "An In-depth talk about multiplayer in Unreal Engine 5 for our project."
 header:
   overlay_image: /assets/images/Games/LuckyBrainNoodle/LuckyBrainNoodles.jpg
   caption: "Lucky Brain Noodle Concept Art"
@@ -20,7 +20,9 @@ tags:
   - Steam
 ---
 
+![Lucky Brain Noodle Multiplayer]({{ '/assets/images/Games/LuckyBrainNoodle/LBNCo-op1.png' | relative_url }})
 
+![Lucky Brain Noodle Multiplayer]({{ '/assets/images/Games/LuckyBrainNoodle/LBNCo-op2.png' | relative_url }})
 
 
 Hey Everyone!
@@ -30,8 +32,7 @@ It's been quite a while since my last update for my super secret project I hinte
 <!--more-->
 
 It's called: 
-# Lucky Brain Noodle! 
-<sub>Don't tell anyone just yet though... </sub>
+# Lucky Brain Noodle! <sub>Don't tell anyone just yet though... </sub>
 
 <!--more-->
 
