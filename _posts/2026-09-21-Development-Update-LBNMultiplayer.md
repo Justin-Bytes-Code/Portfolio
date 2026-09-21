@@ -30,7 +30,8 @@ It's been quite a while since my last update for my super secret project I hinte
 <!--more-->
 
 It's called: 
-# Lucky Brain Noodle! <sub>Don't tell anyone just yet though... </sub>
+# Lucky Brain Noodle!
+<sub>Don't tell anyone just yet though... </sub>
 
 <!--more-->
 
