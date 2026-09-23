@@ -40,14 +40,54 @@ A Binary search tree(BST) would be a great choice for this sort of dataset as it
 # The Code
 
 As stated previously the code is a lot better then my [Previous Code Review](https://justin-bytescode.github.io/Portfolio/code%20review/ue5/games/Code-Review-Survival-Game-Concept/). But much like everything in life there is always room for improvement which is why code reviews are important. The first issue I noticed when checking the code inside a IDE was: 
-``
+```
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <vector>
 #include <algorithm>
 #include <cctype>
-``
+```
 While this doesn't look like anything on here in my IDE *``#include <algorithm>``* was greyed out giving a warning sign. Which means this include isn't used at all inside the file. While this is small it could turn into a bigger issue when your including lots of libraries and your trying to reduce all dependencies this specific file could need. Including random files could get extremely annoying in the future if the problem gets bad later which is why it's important to fix it now. 
+
+Going a little further down in the code you'll see this line in ``Main()``
+```
+CourseTree* myCourseTree = new CourseTree();
+```
+This is one of the first thing that executes in main when the program runs. Which dynamically allocates memory. That's fine in practice and completely acceptable but there is one thing missing inside the main function too, a ``delete`` or a deconstructor. This means if the ``main()`` finishes the pointer will disappear but the memory allocated by ``new CourseTree()`` wasn't released. While this is a smaller program and can definitely be fine if this leak stays it's still a huge issue that will need to be fixed if you want to build programs that are scaleable. This issue could also be worse if you factor in how I was creating nodes. 
+```
+root = new Node(course);
+current->left = new Node(course);
+current->right = new Node(course);
+```
+I am creating nodes the proper way and unlike before where I completely forgot a ``delete`` I remembered this time. The issue is, it doesn't do this unless the program is deleting that specific node. Meaning if you close the program the memory could still be allocated. 
+
+Now onto a silly mistake I realized only during this coding review
+```
+        switch (menuChoice) {
+
+        case 1: {
+            std::cout << "Enter CSV file name "
+                << "(HINT: with .csv extension): ";
+
+            std::cin >> currentFile;
+
+            loadCourses(currentFile, myCourseTree);
+
+            dataLoaded = true;
+
+            break;
+        }
+```
+This is the menu selection specifically for ``1. Load Courses from File``. This has a funny logical issue where no matter what you attempt to load into the program it will always change ``dataLoaded`` to true! This is a small simple mistake that could entirely be fixed by just adding 1 small check after selecting that option. For an example something like: 
+```
+if (!file.is_open()) {
+    std::cout << "Error: Could Not Open File "
+        << csvFile << std::endl;
+    return;
+}
+```
+This would allow for the other menu options not to run after you failed to load a file into the program. Also preventing any bugging that could occur due to it always being true.
+
 
 The project can be found [Here](https://github.com/Justin-Bytes-Code/BSTCoursePlanner) on my GitHub. 
