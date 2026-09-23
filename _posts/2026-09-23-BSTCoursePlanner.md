@@ -89,5 +89,9 @@ if (!file.is_open()) {
 ```
 This would allow for the other menu options not to run after you failed to load a file into the program. Also preventing any bugging that could occur due to it always being true.
 
+# We could always learn
+
+While the mistakes I made on this project were a lot smaller then the ones I had in my previous code review. There is still always something that you could learn. It's never a bad thing to stop and admire how much you climbed. The fact you can point out your mistakes and see them so clearly shows that you have learned a lot since the original time of writing any piece of code. 
+
 
 The project can be found [Here](https://github.com/Justin-Bytes-Code/BSTCoursePlanner) on my GitHub. 
