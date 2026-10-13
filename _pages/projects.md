@@ -50,18 +50,27 @@ website_row:
     url: "https://github.com/Justin-Bytes-Code/Chinese-Food-Website"
     btn_label: "Check Source Code!"
     btn_class: "btn--primary"
+
+ai_row:
+  - image_path: assets/images/Projects/AI/PirateAI.png
+    title: "Pirate Artificial Intelligence"
+    excerpt: "A Python project exploring reinforcement learning and Deep Q-Learning to train an AI agent."
+    url: "https://github.com/Justin-Bytes-Code/Pirate_Artifical_Intelligence"
+    btn_label: "View Source Code"
+    btn_class: "btn--primary"
 ---
 
 # Games
-{% include game_row %}
+{% include feature_row id="game_row" %}
 
 # AI 
+{% include feature_row id="ai_row" %}
 
 # Websites
-{% include website_row %}
+{% include feature_row id="website_row" %}
 
 # Applications 
 
 # Projects
-{% include projects_row %}
+{% include feature_row id="projects_row" %}
 
