@@ -24,8 +24,8 @@ game_row:
   - image_path: assets/images/Games/SurvivalGameConcept/Survival Game Background.png
     title: "Survival Game Concept"
     excerpt: "Survival Game Concept is a Unreal Engine 5 prototype I developed primarily in C++ that shows the core mechanics of a survival game. It's designed to be simple to understand along with to implement in any project. Features include resource gathering, animal placeholders, a stamina system, and a free form building system."
-    url: "https://justin-bytes-code.itch.io/survival-game-concept"
-    btn_label: "Play Now!"
+    url: "https://justin-bytes-code.github.io/Portfolio/learn%20more/c++/games/Learn-More-SurvivalGameConcept/"
+    btn_label: "Learn More!"
     btn_class: "btn--primary"
 
   - image_path: assets/images/Games/FirstPersonGamePrototype/First Person Game Prototype.png
