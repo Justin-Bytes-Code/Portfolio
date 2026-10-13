@@ -16,23 +16,21 @@ header:
 game_row:
   - image_path: assets/images/Games/LuckyBrainNoodle/LuckyBrainNoodles.jpg
     title: "Lucky Brain Noodle"
-    excerpt: "Lucky Brain Noodle is a co-op beat em up developed in Unreal Engine 5 using C++ and Blueprints. The game features a custom combat system and multiplayer through Steams API. Along with custom hand made artwork and animations I made along with my girlfriend."
+    excerpt: "Lucky Brain Noodle is my most recent game project currently still in development using C++ and Unreal Engine 5, the game is a multiplayer Co-op beat them up that works through the steam API, made with custom combat mechanics and almost every asset is hand made by me and my girlfriend."
     url: "https://www.linkedin.com/feed/update/urn:li:activity:7492551071832309761/"
     btn_label: "Check Progress"
     btn_class: "btn--primary"
 
   - image_path: assets/images/Games/SurvivalGameConcept/Survival Game Background.png
     title: "Survival Game Concept"
-    excerpt: "Survival Game Concept is a Unreal Engine 5 prototype I developed primarily in C++ that shows the core mechanics of a survival game. It's designed to be simple to understand along with to implement in any project. Features include resource gathering, animal placeholders, and a stamina system, and a free form building system."
+    excerpt: "Survival Game Concept is a Unreal Engine 5 prototype I developed primarily in C++ that shows the core mechanics of a survival game. It's designed to be simple to understand along with to implement in any project. Features include resource gathering, animal placeholders, a stamina system, and a free form building system."
     url: "https://justin-bytes-code.itch.io/survival-game-concept"
     btn_label: "Play Now!"
     btn_class: "btn--primary"
 
   - image_path: assets/images/Games/FirstPersonGamePrototype/First Person Game Prototype.png
     title: "First Person Game Prototype"
-    excerpt: "First Person Game Prototype is a Unreal Engine 5 project I made with C++ and Blueprints to make a simple mechanics that could be added to any first person shooter. Some of these features are projectile effects, terrain deformation, portal-based teleportation, and procedural terrain generation. It's built so other users can see the code and add it to their game.
-    
-    to potential mechanics for a first person shooter. Features include projectile effects, terrain deformation, portal-based teleportation, and procedural terrain generation. Which could be added to any shooter project."
+    excerpt: "First Person Game Prototype is a Unreal Engine 5 project I made with C++ and Blueprints to make a simple mechanics that could be added to any first person shooter. Some of these features are projectile effects, terrain deformation, portal-based teleportation, and procedural terrain generation. It's built so other users can see the code and add it to their game."
     url: "https://justin-bytes-code.itch.io/first-person-game-prototype-example"
     btn_label: "Play Now!"
     btn_class: "btn--primary"
@@ -40,7 +38,7 @@ game_row:
 software_row:
   - image_path: assets/images/Projects/Apps/TrackerPet/TrackerPetSnip.png
     title: "Tracker Pet"
-    excerpt: "Tracker Pet is an Android application I developed for animal breeds in Java that helps users manage animals and track important information. Tracker Pet uses an SQLite database for offline data storage and supports registering, editing, and deleting animal records."
+    excerpt: "Tracker Pet is an Android application I developed for animal breeders in Java that helps users manage animals and track important information. The idea mainly came from my father as he is a snake breeder and there is no good apps to track animals at a large scale. Tracker Pet uses an SQLite database for offline data storage and supports registering, editing, and deleting animal records."
     url: "https://github.com/Justin-Bytes-Code/Tracker_Pet"
     btn_label: "Check Source Code!"
     btn_class: "btn--primary"
@@ -54,7 +52,7 @@ software_row:
 graphicandsystem_row:
   - image_path: assets/images/Projects/OpenGLHouse/OpenGLHouse.jpg
     title: "OpenGL House"
-    excerpt: "OpenGL House is a C++ project where I built a 3D house from a reference image using OpenGL. I worked on creating the 3D objects, adding textures and lighting, and setting up a camera that lets you move around and view the house from different angles along with having camera speed settings."
+    excerpt: "OpenGL House is a C++ project where I built a 3D house from a reference image using OpenGL. I worked on creating the 3D objects, adding textures and lighting, and setting up a camera that lets you move around and view the house from different angles. The camera also has setting for viewing."
     url: "https://github.com/Justin-Bytes-Code/Open-GL-House"
     btn_label: "Check Source Code!"
     btn_class: "btn--primary"
@@ -83,7 +81,7 @@ webdevelopment_row:
     
   - image_path: assets/images/Projects/Websites/TravlrWebsite/Travlr.png
     title: "Travlr Website"
-    excerpt: "Travlr is a full-stack travel web application developed using the MEAN stack including: MongoDB, Express.js, Angular, and Node.js. It uses a customer facing website for browsing travel packages. An Angular administrative interface for managing trip data. And, it also supports REST APIs, database operations, and JWT based authentication."
+    excerpt: "Travlr is a full-stack travel web application developed using the MEAN stack (MongoDB, Express.js, Angular, and Node.js). It uses a customer facing website for browsing travel packages. An Angular administrative interface for managing trip data. And, it also supports REST APIs, database operations, and JWT based authentication."
     url: "https://github.com/Justin-Bytes-Code/Travlr"
     btn_label: "Check Source Code!"
     btn_class: "btn--primary"
