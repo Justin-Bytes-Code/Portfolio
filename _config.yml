@@ -16,9 +16,9 @@
 title: Justin Perez Portfolio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Justin Perez's Portfolio, He is a dual-major graduate with degrees in Computer Science, 
+  concentrating in Software Engineering, and Video Game Programming & Development. 
+  He specialize in C++ programming and Unreal Engine game development.
 baseurl: "/Portfolio"
 url: "https://justin-bytes-code.github.io"
 twitter_username: username
@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Justin Perez"
   avatar : "assets/images/Projects/Websites/Portfolio/Bio/BioPhoto.jpg"
-  bio    : "Hey! I'm Justin Perez, pursuing a dual degree in Computer Science with a concentration in Software Engineering & Game Programming and Development. I’m always eager to learn and connect with others who share my passion for coding. Feel free to reach out!"
+  bio    : "Hey, I'm Justin Perez, a dual-major graduate with degrees in Computer Science, concentrating in Software Engineering, and Video Game Programming & Development. I specialize in C++ programming and Unreal Engine game development. I’m always eager to learn and connect with others who share my passion for coding. Feel free to reach out!"
   links:
     - label: "Itch"
       icon: "fas fa-fw fa-link"
