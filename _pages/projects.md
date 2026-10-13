@@ -42,6 +42,12 @@ software_row:
     url: "https://github.com/Justin-Bytes-Code/Tracker_Pet"
     btn_label: "Check Source Code!"
     btn_class: "btn--primary"
+  - image_path: assets/images/Projects/BSTCoursePlanner/BSTCoursePlanner.png
+    title: "Tracker Pet"
+    excerpt: "Binary Search Tree (BST) Course Planner is a small terminal application which will assist students & school faculty in understand class prerequisites."
+    url: "https://github.com/Justin-Bytes-Code/BSTCoursePlanner"
+    btn_label: "Check Source Code!"
+    btn_class: "btn--primary"
 
 graphicandsystem_row:
   - image_path: assets/images/Projects/OpenGLHouse/OpenGLHouse.jpg
