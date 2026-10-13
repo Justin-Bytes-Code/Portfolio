@@ -50,6 +50,12 @@ graphicandsystem_row:
     url: "https://github.com/Justin-Bytes-Code/Open-GL-House"
     btn_label: "Check Source Code!"
     btn_class: "btn--primary"
+  - image_path: assets/images/Projects/OpenGLBreakout/Breakout.png
+    title: "OpenGL Breakout"
+    excerpt: "This is a small remake of the classic game breakout redone inside OpenGL with simple physics"
+    url: "https://github.com/Justin-Bytes-Code/OpenGL-Breakout"
+    btn_label: "Check Source Code!"
+    btn_class: "btn--primary"
 
 ai_row:
   - image_path: assets/images/Projects/AI/PirateAI.png
