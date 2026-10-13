@@ -16,7 +16,7 @@ header:
 game_row:
   - image_path: assets/images/Games/LuckyBrainNoodle/LuckyBrainNoodles.jpg
     title: "Lucky Brain Noodle"
-    excerpt: "Lucky Brain Noodle is a co-op beat em up developed in Unreal Engine 5 using C++ and Blueprints. The game features a custom combat system and Steam-integrated multiplayer. Along with custom hand made artwork and animations I made along with my girlfriend."
+    excerpt: "Lucky Brain Noodle is a co-op beat em up developed in Unreal Engine 5 using C++ and Blueprints. The game features a custom combat system and multiplayer through Steams API. Along with custom hand made artwork and animations I made along with my girlfriend."
     url: "https://www.linkedin.com/feed/update/urn:li:activity:7492551071832309761/"
     btn_label: "Check Progress"
     btn_class: "btn--primary"
