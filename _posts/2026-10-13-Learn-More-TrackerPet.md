@@ -53,17 +53,28 @@ Tracker Pet is an Android mobile application designed to help animal breeders ma
 - Built an expandable database where users could add an infinite number of animals in the database. Other features the database has is: creating, deleting, and editing. 
 
 # Video Examples
-<!--Login Video-->
-https://github.com/user-attachments/assets/eab388e2-320d-401d-b2c5-c018b0b83f46
 
-<!--Input Animal-->
-https://github.com/user-attachments/assets/e29d457e-b87c-4670-b7f7-a297783c5b66
+<h3>Login</h3>
+<video controls preload="metadata" width="100%">
+  <source src="https://github.com/user-attachments/assets/eab388e2-320d-401d-b2c5-c018b0b83f46">
+</video>
 
-<!--Edit & Delete-->
-https://github.com/user-attachments/assets/05b349ff-9c5c-4d51-a66d-bbd1fed50eb4
+<h3>Input Animal</h3>
+<video controls preload="metadata" width="100%">
+  <source src="https://github.com/user-attachments/assets/e29d457e-b87c-4670-b7f7-a297783c5b66">
+</video>
 
-<!--SMS Enabled-->
-https://github.com/user-attachments/assets/44e5b2c1-d9fe-45c5-9f4f-5e25df050d45
+<h3>Edit and Delete</h3>
+<video controls preload="metadata" width="100%">
+  <source src="https://github.com/user-attachments/assets/05b349ff-9c5c-4d51-a66d-bbd1fed50eb4">
+</video>
 
-<!--SMS Example-->
-https://github.com/user-attachments/assets/13bbdb3f-2ff9-4f1f-bfd3-15876aea1a29
+<h3>SMS Enabled</h3>
+<video controls preload="metadata" width="100%">
+  <source src="https://github.com/user-attachments/assets/44e5b2c1-d9fe-45c5-9f4f-5e25df050d45">
+</video>
+
+<h3>SMS Example</h3>
+<video controls preload="metadata" width="100%">
+  <source src="https://github.com/user-attachments/assets/13bbdb3f-2ff9-4f1f-bfd3-15876aea1a29">
+</video>
