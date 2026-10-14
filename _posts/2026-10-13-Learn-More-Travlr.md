@@ -59,43 +59,38 @@ Testing
 
 ## Front End
 
-### Home
-![Travlr Home](https://raw.githubusercontent.com/Justin-Bytes-Code/Travlr/main/Documents%20%26%20Images/Travlr%20Home.png)
+| Home | Travel | Rooms |
+|------|--------|-------|
+| <img src="https://github.com/user-attachments/assets/b0d2df2a-da35-4c5c-81bb-8fe0f54999e2" width="300"/> | <img src="https://github.com/user-attachments/assets/ab7496b3-0b93-4077-bb1e-ec23a4267f54" width="300"/> | <img src="https://github.com/user-attachments/assets/6f4c5a49-2a98-4441-ba1c-252d4cdbfe8a" width="300"/> |
 
-### Travel
-![Travlr Travel](https://raw.githubusercontent.com/Justin-Bytes-Code/Travlr/main/Documents%20%26%20Images/Travlr%20Travel.png)
+| Meals | News | About |
+|-------|------|-------|
+| <img src="https://github.com/user-attachments/assets/d7fd3c83-2c51-4a7e-b65e-9c05ea117658" width="300"/> | <img src="https://github.com/user-attachments/assets/2aef904a-4911-4d1a-bd33-05e67b057fcb" width="300"/> | <img src="https://github.com/user-attachments/assets/bba94ca1-0928-46fe-b7cc-344057bcd73a" width="300"/> |
 
-### Rooms
-![Travlr Rooms](https://raw.githubusercontent.com/Justin-Bytes-Code/Travlr/main/Documents%20%26%20Images/Travlr%20Rooms.png)
-
-### Meals
-![Travlr Meals](https://raw.githubusercontent.com/Justin-Bytes-Code/Travlr/main/Documents%20%26%20Images/Travlr%20Meals.png)
-
-### News
-![Travlr News](https://raw.githubusercontent.com/Justin-Bytes-Code/Travlr/main/Documents%20%26%20Images/Travlr%20News.png)
-
-### About
-![Travlr About](https://raw.githubusercontent.com/Justin-Bytes-Code/Travlr/main/Documents%20%26%20Images/Travlr%20About.png)
-
-### Contact
-![Travlr Contact](https://raw.githubusercontent.com/Justin-Bytes-Code/Travlr/main/Documents%20%26%20Images/Travlr%20Contact.png)
+| Contact |
+|---------|
+| <img src="https://github.com/user-attachments/assets/a612429a-66ce-4016-9c09-8e808786a453" width="300"/> |
 
 ## Front End: Angular Admin Dashboard
 
-![Travlr Admin Dashboard](https://github.com/user-attachments/assets/36b8d174-040d-4079-825e-454d060964d7)
+<img src="https://github.com/user-attachments/assets/36b8d174-040d-4079-825e-454d060964d7" alt="Travlr Admin Dashboard" width="100%"/>
 
 ## Back End: MongoDB
 
 ### MongoDB Configuration
-![MongoDB Configuration](https://github.com/user-attachments/assets/24f0988b-b65e-489d-ba44-860c1b477e0d)
+
+<img src="https://github.com/user-attachments/assets/24f0988b-b65e-489d-ba44-860c1b477e0d" alt="MongoDB Configuration" width="100%"/>
 
 ### MongoDB Data Example
-![MongoDB Data Example](https://github.com/user-attachments/assets/a9e52502-5d1c-4f1b-9d03-9203ad94efda)
+
+<img src="https://github.com/user-attachments/assets/a9e52502-5d1c-4f1b-9d03-9203ad94efda" alt="MongoDB Data Example" width="100%"/>
 
 ### MongoDB Security
-![MongoDB Security Configuration](https://github.com/user-attachments/assets/46ae2e22-6697-4d7b-9799-ee1b9fd16425)
+
+<img src="https://github.com/user-attachments/assets/46ae2e22-6697-4d7b-9799-ee1b9fd16425" alt="MongoDB Security Configuration" width="100%"/>
 
 ## Back End: Express.js
 
 ### Detailed Code Comments
-![Express.js Code Example](https://github.com/user-attachments/assets/bafe475f-5030-4d1a-bdb7-1ad6872ab305)
+
+<img src="https://github.com/user-attachments/assets/bafe475f-5030-4d1a-bdb7-1ad6872ab305" alt="Express.js Code Example with Comments" width="100%"/>
