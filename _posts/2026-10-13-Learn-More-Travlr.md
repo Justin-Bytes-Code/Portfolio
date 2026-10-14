@@ -31,7 +31,7 @@ tags:
 
 # Project Overview
 
-Testing
+Travlr is a full stack travel website. The project has a public facing website built with Express.js and handlebars, along with a angular admin dashboard allowing authorized users to manage travel packages on the website. The website also uses a MongoDB database to store information and a node.JS backend to switch packages on the fly. 
 
 # Project Details
 
@@ -46,11 +46,15 @@ Testing
 
 # Responsibilities 
 
-- Developing and Maintaing C++ Code
-- Built a free form building system from scratch
-- Create and implement UX and UI
-- Implemented basic AI behavior for placeholder creatures.
-- Implemented a Health, Hunger, and Stamina mechanic.
+- Developing and Maintaing Front End & Back End
+- Integrate a MEAN stack
+  - MongoDB: NoSQL database for storing travel package data.
+  - Express.js: RESTful API endpoints and server-side routing.
+  - Angular: Administrative single-page application (SPA).
+  - Node.js: JavaScript runtime environment.
+- Create Security for admin panel with User registration, JWT Authetication, & Password Hashing with crypto (PBKDF2 + salt)
+- Integrate an Angular SPA Admin Page for admins to manage travel packages
+- Create a public travel booking website built with Express, Handlebars (HBS), HTML, CSS, and JavaScript
 
 # Additional Documentations 
 - [Design Document](https://github.com/Justin-Bytes-Code/Travlr/blob/main/Documents%20%26%20Images/Justin%20Perez's%20Software%20Design%20Document.pdf)
