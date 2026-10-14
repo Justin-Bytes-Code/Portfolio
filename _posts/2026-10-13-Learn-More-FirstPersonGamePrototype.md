@@ -3,7 +3,7 @@ title: "Learn More: First Person Game Prototype"
 excerpt_separator: "<!--more-->"
 tagline: "Learn More About First Person Game Prototype!"
 header:
-  overlay_image: assets/images/Games/FirstPersonGamePrototype/First Person Game Prototype.png
+  overlay_image: assets/images/Games/FirstPersonGamePrototype/FPGP 1.png
   caption: "First Person Game Prototype Thumbnail"
 categories:
   - Learn More
@@ -15,7 +15,7 @@ tags:
   - Games
 ---
 
-![First Person Game Prototype]({{ 'assets/images/Games/FirstPersonGamePrototype/FPGP 1.png' | relative_url }})
+![First Person Game Prototype]({{ 'assets/images/Games/FirstPersonGamePrototype/First Person Game Prototype.png' | relative_url }})
 
 # Project Overview
 
@@ -39,8 +39,13 @@ First Person Game Prototype is a open source single player prototype that showca
 - Created randomly generated bullet colors with particle effects and decals.  
 - Created a portal system in C++ that aligns with the camera to teleport the player. 
 
-# Additional Documentations 
+# Video Examples Of Mechanics
 
-Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tyCqIiw4ctA?si=PGyneohZBHZhPTQb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9XCTrmKnToo?si=SEAhyXk7jUYD-A0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jrTjGGW4Atc?si=PoxkD9lqXXaUICpG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c629kIc0HC0?si=Tx0xLw0JkSyqDI1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
