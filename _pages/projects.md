@@ -11,7 +11,7 @@ header:
   # actions:
   #  - label: "Download"
   #    url: "#test-link"
- excerpt: "These are all the projects I've been apart of!"
+  excerpt: "These are all the projects I've been apart of!"
 
 game_row:
   - image_path: assets/images/Games/LuckyBrainNoodle/LuckyBrainNoodles.jpg
