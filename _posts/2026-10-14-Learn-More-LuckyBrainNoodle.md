@@ -48,7 +48,7 @@ This project is currently in development!
 - Developing and Maintaing C++ Code
 - Implemented online multiplayer system using the Steamworks API and Unreal Engine 5s replication system.
 - Developed a unique combat system with a combo system, Inventory, and character movement
-- Create 4 unique weapon classes with their own style of play
+- Create 4 unique weapon classes each with their own style of play
 - Create 4 Unique Enemy AI's that each change the way the player approaches combat
 - Implemented UX/UI, game settings, resolution options, VSync controls, and audio configuration
 - Game design, animation mapping, and level designing, 
