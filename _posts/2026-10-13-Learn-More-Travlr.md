@@ -35,14 +35,14 @@ Travlr is a full stack travel website. The project has a public facing website b
 
 # Project Details
 
-- Github: [Source Code](https://github.com/Justin-Bytes-Code/Travlr)
-- Platform: Web Browser, Web Server (Node.js)
-- Languages & Scripting: JavaScript, HTML, CSS, JSON
-- Frameworks & Technologies: Angular, Node.js, Express.js, MongoDB, Mongoose, Handlebars (HBS), REST API, JWT Authentication
-- Development Tools: npm, Angular CLI
-- Team Size: 1 (Solo Project)
-- Role: Full Stack Web Developer
-- Development Period: 3 Months
+- **Github:** [Source Code](https://github.com/Justin-Bytes-Code/Travlr)
+- **Platform:** Web Browser, Web Server (Node.js)
+- **Languages & Scripting:** JavaScript, HTML, CSS, JSON
+- **Frameworks & Technologies:** Angular, Node.js, Express.js, MongoDB, Mongoose, Handlebars (HBS), REST API, JWT Authentication
+- **Development Tools:** npm, Angular CLI
+- **Team Size:** 1 (Solo Project)
+- **Role:** Full Stack Web Developer
+- **Development Period:** 3 Months
 
 # Responsibilities 
 
