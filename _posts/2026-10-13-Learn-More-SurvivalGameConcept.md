@@ -23,14 +23,14 @@ Survival Game Concept is a open source single player proof of concept survival g
 
 # Project Details
 
-- Download: [Play The Game](https://justin-bytes-code.itch.io/survival-game-concept)
-- Github: [Source Code](https://github.com/Justin-Bytes-Code/Survival-Game-Concept)
-- Platform: PC (Windows)
-- Engine: Unreal Engine 5
-- Language & Scripting: C++, Unreal Engine Blueprints
-- Team Size: 1 (Solo Project)
-- Role: Gameplay Programmer
-- Development Period: 2 Months
+- **Download:** [Play The Game](https://justin-bytes-code.itch.io/survival-game-concept)
+- **Github:** [Source Code](https://github.com/Justin-Bytes-Code/Survival-Game-Concept)
+- **Platform:** PC (Windows)
+- **Engine:** Unreal Engine 5
+- **Language & Scripting:** C++, Unreal Engine Blueprints
+- **Team Size:** 1 (Solo Project)
+- **Role:** Gameplay Programmer
+- **Development Period:** 2 Months
 
 # Responsibilities 
 
