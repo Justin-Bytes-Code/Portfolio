@@ -11,14 +11,14 @@ header:
   # actions:
   #  - label: "Download"
   #    url: "#test-link"
-# excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+ excerpt: "These are all the projects I've been apart of!"
 
 game_row:
   - image_path: assets/images/Games/LuckyBrainNoodle/LuckyBrainNoodles.jpg
     title: "Lucky Brain Noodle"
     excerpt: "Lucky Brain Noodle is my most recent game project currently still in development using C++ and Unreal Engine 5, the game is a multiplayer Co-op beat them up that works through the steam API, made with custom combat mechanics and almost every asset is hand made by me and my girlfriend."
-    url: "https://www.linkedin.com/feed/update/urn:li:activity:7492551071832309761/"
-    btn_label: "Check Progress"
+    url: "https://justin-bytes-code.github.io/Portfolio/learn%20more/c++/games/ue5/multiplayer/coop/steam%20integrated/ai/Learn-More-LuckyBrainNoodle/"
+    btn_label: "Learn More!"
     btn_class: "btn--primary"
 
   - image_path: assets/images/Games/SurvivalGameConcept/Survival Game Background.png
@@ -31,16 +31,16 @@ game_row:
   - image_path: assets/images/Games/FirstPersonGamePrototype/First Person Game Prototype.png
     title: "First Person Game Prototype"
     excerpt: "First Person Game Prototype is a Unreal Engine 5 project I made with C++ and Blueprints to make a simple mechanics that could be added to any first person shooter. Some of these features are projectile effects, terrain deformation, portal-based teleportation, and procedural terrain generation. It's built so other users can see the code and add it to their game."
-    url: "https://justin-bytes-code.itch.io/first-person-game-prototype-example"
-    btn_label: "Play Now!"
+    url: "https://justin-bytes-code.github.io/Portfolio/learn%20more/c++/games/Learn-More-FirstPersonGamePrototype/"
+    btn_label: "Learn More!"
     btn_class: "btn--primary"
 
 software_row:
   - image_path: assets/images/Projects/Apps/TrackerPet/TrackerPetSnip.png
     title: "Tracker Pet"
     excerpt: "Tracker Pet is an Android application I developed for animal breeders in Java that helps users manage animals and track important information. The idea mainly came from my father as he is a snake breeder and there is no good apps to track animals at a large scale. Tracker Pet uses an SQLite database for offline data storage and supports registering, editing, and deleting animal records."
-    url: "https://github.com/Justin-Bytes-Code/Tracker_Pet"
-    btn_label: "Check Source Code!"
+    url: "https://justin-bytes-code.github.io/Portfolio/learn%20more/java/application/app/android/sql/databases/xml/Learn-More-TrackerPet/"
+    btn_label: "Learn More!"
     btn_class: "btn--primary"
   - image_path: assets/images/Projects/BSTCoursePlanner/BSTCoursePlanner.png
     title: "BST Course Planner"
@@ -53,8 +53,8 @@ graphicandsystem_row:
   - image_path: assets/images/Projects/OpenGLHouse/OpenGLHouse.jpg
     title: "OpenGL House"
     excerpt: "OpenGL House is a C++ project where I built a 3D house from a reference image using OpenGL. I worked on creating the 3D objects, adding textures and lighting, and setting up a camera that lets you move around and view the house from different angles. The camera also has setting for viewing."
-    url: "https://github.com/Justin-Bytes-Code/Open-GL-House"
-    btn_label: "Check Source Code!"
+    url: "https://justin-bytes-code.github.io/Portfolio/learn%20more/c++/opengl/graphical%20programming/Learn-More-OpenGLHouse/"
+    btn_label: "Learn More!"
     btn_class: "btn--primary"
   - image_path: assets/images/Projects/OpenGLBreakout/Breakout.png
     title: "OpenGL Breakout"
@@ -82,8 +82,8 @@ webdevelopment_row:
   - image_path: assets/images/Projects/Websites/TravlrWebsite/Travlr.png
     title: "Travlr Website"
     excerpt: "Travlr is a full-stack travel web application developed using the MEAN stack (MongoDB, Express.js, Angular, and Node.js). It uses a customer facing website for browsing travel packages. An Angular administrative interface for managing trip data. And, it also supports REST APIs, database operations, and JWT based authentication."
-    url: "https://github.com/Justin-Bytes-Code/Travlr"
-    btn_label: "Check Source Code!"
+    url: "https://justin-bytes-code.github.io/Portfolio/learn%20more/javascript/html/css/json/full%20stack/web%20development/angular/mongodb/Learn-More-Travlr/"
+    btn_label: "Learn More!"
     btn_class: "btn--primary"
 
   - image_path: assets/images/Projects/Websites/Portfolio/ThisWebsite.png
