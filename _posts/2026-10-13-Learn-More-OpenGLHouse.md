@@ -25,12 +25,12 @@ OpenGL House is a small scale 3D recreation of a house built using C++ & OpenGL.
 
 # Project Details
 
-- Github: [Source Code](https://github.com/Justin-Bytes-Code/Open-GL-House)
-- Platform: PC (Windows)
-- Language & Scripting: C++, OpenGL
-- Team Size: 1 (Solo Project)
-- Role: Graphics Programmer
-- Development Period: 1 Month
+- **Github:** [Source Code](https://github.com/Justin-Bytes-Code/Open-GL-House)
+- **Platform:** PC (Windows)
+- **Language & Scripting:** C++, OpenGL
+- **Team Size:** 1 (Solo Project)
+- **Role:** Graphics Programmer
+- **Development Period:** 1 Month
 
 # Responsibilities 
 
