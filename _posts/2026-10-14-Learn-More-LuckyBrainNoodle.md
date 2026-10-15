@@ -51,7 +51,7 @@ This project is currently in development!
 - Create 4 unique weapon classes each with their own style of play
 - Create 4 Unique Enemy AI's that each change the way the player approaches combat
 - Implemented UX/UI, game settings, resolution options, VSync controls, and audio configuration
-- Game design, animation mapping, and level designing, 
+- Game design, animation mapping, and level design 
 - Created a portal system in C++ that aligns with the camera to teleport the player
 
 # Extra Documentation 
