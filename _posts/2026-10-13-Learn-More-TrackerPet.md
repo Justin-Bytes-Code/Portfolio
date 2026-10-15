@@ -50,7 +50,7 @@ Tracker Pet is an Android mobile application designed to help animal breeders ma
 - Create and implement UX and UI for users
 - Create Notification placeholder support for a future feature where the app could send SMS messages. 
 - Created a offline & local database. 
-- Built an expandable database where users could add an infinite number of animals in the database. Other features the database has is: creating, deleting, and editing. 
+- Built an expandable database where users could add an infinite number of animals in the database. The database also supports CRUD. 
 
 # Video Examples
 
