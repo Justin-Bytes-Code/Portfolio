@@ -23,14 +23,14 @@ First Person Game Prototype is a open source single player prototype that showca
 
 # Project Details
 
-- Download: [Play The Game](https://justin-bytes-code.itch.io/first-person-game-prototype-example)
-- Github: [Source Code](https://github.com/Justin-Bytes-Code/First-Person-Game-Prototype)
-- Platform: PC (Windows)
-- Engine: Unreal Engine 5
-- Language & Scripting: C++, Unreal Engine Blueprints
-- Team Size: 1 (Solo Project)
-- Role: Gameplay Programmer
-- Development Period: 2 Months
+- **Download:** [Play The Game](https://justin-bytes-code.itch.io/first-person-game-prototype-example)
+- **Github:** [Source Code](https://github.com/Justin-Bytes-Code/First-Person-Game-Prototype)
+- **Platform:** PC (Windows)
+- **Engine:** Unreal Engine 5
+- **Language & Scripting:** C++, Unreal Engine Blueprints
+- **Team Size:** 1 (Solo Project)
+- **Role:** Gameplay Programmer
+- **Development Period:** 2 Months
 
 # Responsibilities 
 
