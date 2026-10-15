@@ -33,15 +33,15 @@ Tracker Pet is an Android mobile application designed to help animal breeders ma
 
 # Project Details
 
-- Download: [Download The App](https://github.com/Justin-Bytes-Code/Tracker_Pet/releases/tag/v1.0.0)
-- Github: [Source Code](https://github.com/Justin-Bytes-Code/Tracker_Pet)
-- Platform: Android
-- Audience: Animal Breeders
-- Frameworks & Technologies: Android, SDK SQLite, & Android Studio
-- Language & Scripting: Java, SQL, XML
-- Team Size: 1 (Solo Project)
-- Role: Application Developer
-- Development Period: 2 Months
+- **Download:** [Download The App](https://github.com/Justin-Bytes-Code/Tracker_Pet/releases/tag/v1.0.0)
+- **Github:** [Source Code](https://github.com/Justin-Bytes-Code/Tracker_Pet)
+- **Platform:** Android
+- **Audience:** Animal Breeders
+- **Frameworks & Technologies:** Android, SDK SQLite, & Android Studio
+- **Language & Scripting:** Java, SQL, XML
+- **Team Size:** 1 (Solo Project)
+- **Role:** Application Developer
+- **Development Period:** 2 Months
 
 # Responsibilities 
 
