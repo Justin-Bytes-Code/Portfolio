@@ -14,6 +14,7 @@ header:
   excerpt: "These are all the projects I've been apart of!"
 
 game_row:
+
   - image_path: assets/images/Games/LuckyBrainNoodle/LuckyBrainNoodles.jpg
     title: "Lucky Brain Noodle"
     excerpt: "Lucky Brain Noodle is my most recent game project currently still in development using C++ and Unreal Engine 5, the game is a multiplayer Co-op beat them up that works through the steam API, made with custom combat mechanics and almost every asset is hand made by me and my girlfriend."
@@ -42,6 +43,7 @@ software_row:
     url: "https://justin-bytes-code.github.io/Portfolio/learn%20more/java/application/app/android/sql/databases/xml/Learn-More-TrackerPet/"
     btn_label: "Learn More!"
     btn_class: "btn--primary"
+    
   - image_path: assets/images/Projects/BSTCoursePlanner/BSTCoursePlanner.png
     title: "BST Course Planner"
     excerpt: "Binary search tree (BST) Course Planner is a C++ terminal based application that helps students and faculty look at course information and prerequisites from a CSV. It does this by using a Binary Search Tree algorithm to go through a loaded file."
@@ -109,6 +111,6 @@ webdevelopment_row:
 # Web Development
 {% include feature_row id="webdevelopment_row" %}
 
-# Projects
-{% include feature_row id="projects_row" %}
+<!-- # Projects -->
+<!-- {% include feature_row id="projects_row" %} -->
 
