@@ -52,6 +52,10 @@ Tracker Pet is an Android mobile application designed to help animal breeders ma
 - Created a offline & local database. 
 - Built an expandable database where users could add an infinite number of animals in the database. The database also supports CRUD. 
 
+# Additional Documentations
+
+[Code Review](https://justin-bytes-code.github.io/Portfolio/learn%20more/java/application/app/android/sql/databases/xml/Code-Review-Tracker-Pet/)
+
 # Video Examples
 
 <h3>Login</h3>
