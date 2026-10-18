@@ -1,7 +1,7 @@
 ---
 title: "Code Review: Tracker Pet"
 excerpt_separator: "<!--more-->"
-tagline: "Learn More About Tracker Pet"
+tagline: "Check Out A Code Review Of Tracker Pet"
 header:
   overlay_image: assets/images/Projects/Apps/TrackerPet/TrackerPet1.png
   caption: "Code Snip"
