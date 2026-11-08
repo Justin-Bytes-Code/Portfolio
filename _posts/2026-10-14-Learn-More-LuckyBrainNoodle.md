@@ -31,11 +31,9 @@ tags:
 
 Lucky Brain Noodle is a online Coop beat em up where you play as 1 of 2 girls (Moxie & Miney) who run a "therapy" brain surgery shop in the back of a noodle store. Together they will go inside their patients brains and "Work out" their issues by physically beating up their bad thoughts to help their clients. 
 
-This project is currently in development! 
-
 # Project Details
 
-- **Download:** Coming Soon!
+- **Download:** [Play The Game](https://justin-bytes-code.itch.io/lucky-brain-noodle)
 - **Platform:** PC (Windows)
 - **Engine:** Unreal Engine 5
 - **Language & Scripting:** C++, Unreal Engine Blueprints
